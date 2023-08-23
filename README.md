@@ -63,3 +63,12 @@
 * [Specification/Specification.EntityFrameworkCore/src/Ardalis.Specification.EntityFrameworkCore/EFRepositoryFactory.cs at main · ardalis/Specification · GitHub](https://github.com/ardalis/Specification/blob/main/Specification.EntityFrameworkCore/src/Ardalis.Specification.EntityFrameworkCore/EFRepositoryFactory.cs)
 * [Add two methods for consuming repositories in scenarios where repositories could be longer lived (e.g. Blazor component Injections) by jasonsummers · Pull Request #289 · ardalis/Specification · GitHub](https://github.com/ardalis/Specification/pull/289)
 
+## John Deere Snowblower belt links
+* [john deere snowblower "auger noise" - Google Search](https://www.google.com/search?q=john+deere+snowblower+%22auger+noise%22&rlz=1C1CHZL_enUS694US695&sxsrf=ALiCzsbKGbpbRyn10yi5LNzUS5sLPuqRYg%3A1671848417427&ei=4WGmY7zWGYCt0PEPp721kA4&ved=0ahUKEwj8yqfYmJH8AhWAFjQIHadeDeIQ4dUDCBA&uact=5&oq=john+deere+snowblower+%22auger+noise%22&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQwwQQoAE6BQgAEKIEOgoIIRDDBBAKEKABSgQIQRgBSgQIRhgAUOIJWMEoYIUyaAFwAHgAgAHGAYgB2QmSAQMzLjeYAQCgAQHAAQE&sclient=gws-wiz-serp)
+* [John Deere Parts Catalog](https://partscatalog.deere.com/jdrc/sidebyside/equipment/69077/referrer/search/pgId/20531356/partnumber/M82612/callout/6)
+* [Latest find. John Deere 1032 snowblower. some questions ??](https://www.abbysguide.com/ope/discussions/16364-0-1.html)
+* [replace 1032 auger belt - Google Search](https://www.google.com/search?q=replace+1032+auger+belt&rlz=1C1CHZL_enUS694US695&oq=replace+1032+auger+belt&aqs=chrome..69i57j33i160l2j33i299l2j33i22i29i30l5.12388j1j7&sourceid=chrome&ie=UTF-8)
+* [How do I change AUGER belt on J.D. 1032? | Snowblower Forum](https://www.snowblowerforum.com/threads/how-do-i-change-auger-belt-on-j-d-1032.23874/)
+* [john deere 1032 manual - Google Search](https://www.google.com/search?q=john+deere+1032+manual&rlz=1C1CHZL_enUS694US695&oq=john+deere+1032+manual&aqs=chrome..69i57j0i22i30l6.7879j0j7&sourceid=chrome&ie=UTF-8)
+* [John Deere 1032 Snow blower Manual - RCDocuments](https://www.rcdocuments.com/john-deere-1032-snow-blower-manual/)
+* [John-Deere-1032-Snowblower-Manual.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.rcdocuments.com/documents/John-Deere-1032-Snowblower-Manual.pdf)
