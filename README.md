@@ -122,6 +122,26 @@
 * [find current domain controller - Google Search](https://www.google.com/search?q=find+current+domain+controller&rlz=1C1GCEB_enUS964US964&oq=find+current+domain+controller&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTQ4OTY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 * [How to find which DC a computer is authenticated to](https://community.spiceworks.com/how_to/40451-find-which-dc-a-computer-is-authenticated-to)
 
+## RabbitMQ Upgrade Links
+- [Feature Flags | RabbitMQ](https://www.rabbitmq.com/docs/feature-flags)
+- [Upgrading RabbitMQ | RabbitMQ](https://www.rabbitmq.com/docs/upgrade#recommended-upgrade-steps)
+- [Monitoring | RabbitMQ](https://www.rabbitmq.com/docs/monitoring)
+- [Upgrading RabbitMQ | RabbitMQ](https://www.rabbitmq.com/docs/upgrade#perform-the-upgrade)
+- [Release RabbitMQ 3.11.28 · rabbitmq/rabbitmq-server · GitHub](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v3.11.28)
+- [Clustering Guide | RabbitMQ](https://www.rabbitmq.com/docs/clustering#cluster-formation-requirements)
+- [Quorum Queues | RabbitMQ](https://www.rabbitmq.com/docs/quorum-queues)
+- [Erlang Version Requirements | RabbitMQ](https://www.rabbitmq.com/docs/which-erlang#redhat)
+- [Upgrading RabbitMQ Nodes](https://chatgpt.com/c/42f82865-7ce9-4f70-a9a2-26dde823afd1)
+- [GitHub - rabbitmq/erlang-rpm: Latest Erlang/OTP releases packaged as a zero dependency RPM, just enough for running RabbitMQ](https://github.com/rabbitmq/erlang-rpm)
+- [Releases · rabbitmq/erlang-rpm](https://github.com/rabbitmq/erlang-rpm/releases)
+- [Release Information | RabbitMQ](https://www.rabbitmq.com/release-information)
+- [Installing on RPM-based Linux | RabbitMQ](https://www.rabbitmq.com/docs/install-rpm#supported-distributions)
+- [Release RabbitMQ 3.11.0 · rabbitmq/rabbitmq-server · GitHub](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v3.11.0)
+- [rhel yum commands - Google Search](https://www.google.com/search?q=rhel+yum+commands&rlz=1C1GCEB_enUS964US964&oq=rhel+yum+commands&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY2NjNqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8)
+- [Yum Command Cheat Sheet for Red Hat Enterprise Linux - Red Hat Customer Portal](https://access.redhat.com/articles/yum-cheat-sheet)
+- [Red Hat Enterprise Linux Release Dates - Red Hat Customer Portal](https://access.redhat.com/articles/3078)
+- [Red Hat Enterprise Linux Life Cycle - Red Hat Customer Portal](https://access.redhat.com/support/policy/updates/errata)
+
 ## John Deere Snowblower belt links
 * [john deere snowblower "auger noise" - Google Search](https://www.google.com/search?q=john+deere+snowblower+%22auger+noise%22&rlz=1C1CHZL_enUS694US695&sxsrf=ALiCzsbKGbpbRyn10yi5LNzUS5sLPuqRYg%3A1671848417427&ei=4WGmY7zWGYCt0PEPp721kA4&ved=0ahUKEwj8yqfYmJH8AhWAFjQIHadeDeIQ4dUDCBA&uact=5&oq=john+deere+snowblower+%22auger+noise%22&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQwwQQoAE6BQgAEKIEOgoIIRDDBBAKEKABSgQIQRgBSgQIRhgAUOIJWMEoYIUyaAFwAHgAgAHGAYgB2QmSAQMzLjeYAQCgAQHAAQE&sclient=gws-wiz-serp)
 * [John Deere Parts Catalog](https://partscatalog.deere.com/jdrc/sidebyside/equipment/69077/referrer/search/pgId/20531356/partnumber/M82612/callout/6)
