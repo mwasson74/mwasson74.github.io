@@ -1,5 +1,7 @@
 # mwasson74.github.io
 
+## Add Toggle ReSharper Button to VS
+* [Add ReSharper_ToggleSuspended as toolbar button](https://stackoverflow.com/a/41792417)
 
 ## Rosylyn Analyzer Links
 * [Tutorial: Write your first analyzer and code fix | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/tutorials/how-to-write-csharp-analyzer-code-fix?source=docs)
