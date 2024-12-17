@@ -1,5 +1,27 @@
 # mwasson74.github.io
 
+## Keycloak Clustering v24+
+- [keycloak cluster jdbc\_ping - Google Search](https://www.google.com/search?q=keycloak+cluster+jdbc_ping&sca_esv=e6f3bf325e5684b2&rlz=1C1GCEB_enUS964US964&sxsrf=ADLYWIJyyZp0Gs4KEHDORXoZD1iheigSbQ%3A1734369650571&source=lnt&tbs=cdr%3A1%2Ccd_min%3A12%2F16%2F2022%2Ccd_max%3A12%2F16%2F2024&tbm=)
+- [Keycloak clustering verification](https://chatgpt.com/c/6760508c-c80c-8001-a5f5-bccf0a227f31)
+- [Clustering keycloak on 3 machines - Configuring the server - Keycloak](https://keycloak.discourse.group/t/clustering-keycloak-on-3-machines/21733/4)
+- [keycloak-clustered/25.0.6/cache-ispn-jdbc-ping.xml at master · ivangfr/keycloak-clustered](https://github.com/ivangfr/keycloak-clustered/blob/master/25.0.6/cache-ispn-jdbc-ping.xml)
+- [caching - Issue with JDBC\_PING after I updated keycloak version from 19 to 25 - Stack Overflow](https://stackoverflow.com/questions/78753807/issue-with-jdbc-ping-after-i-updated-keycloak-version-from-19-to-25)
+- [Keycloak Cluster using JDBC-PING for Distributed Caching | by Ivan Franchin | Medium](https://medium.com/@ivangfr/keycloak-cluster-using-jdbc-ping-for-distributed-caching-8ba5c09cc206)
+- [Configuring Keycloak Infinispan cluster using JDBC\_PING | by Perdana Arta | Medium](https://medium.com/@dev.perdanaarta/configuring-keycloak-infinispan-cluster-using-jdbc-ping-9cabcee84feb)
+- [Configuring Keycloak for production - Keycloak](https://www.keycloak.org/server/configuration-production)
+- [Configuring distributed caches - Keycloak](https://www.keycloak.org/server/caching#_transport_stacks)
+- [keycloak cluster - Google Search](https://www.google.com/search?sca_esv=e6f3bf325e5684b2&rlz=1C1GCEB_enUS964US964&sxsrf=ADLYWIJJDUIJmAWE0xtNG3BnwCNNw8LCEQ:1734366368869&q=keycloak+cluster&udm=7&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J7pRxUp2pI1mXV9fBsfh39JqJxzRlphkmT2MeVSzs3MQCUNkeUaVjRp3Bu8J5s0UhhW9p8XBQ4OgSxaZFuzMRIHm1YH1fcYQUvvrISxlCv9Km7C6ufW8zILU3_5Nhj-Vo4qKzb5wi7QUQvpxDIQTbaNzipXoYS-g5hS9YBSIbVVrGMsj-g&sa=X&ved=2ahUKEwiqp86a2qyKAxXoMlkFHeCYNCsQtKgLegQIHBAB&biw=1920&bih=953&dpr=1)
+- [Keycloak clustering - Stack Overflow](https://stackoverflow.com/questions/76781343/keycloak-clustering)
+- [(108) KEYCLOAK Cluster - Up and Running in Seconds | Niko Köbler (@dasniko) - YouTube](https://www.youtube.com/watch?v=P96VQkBBNxU)
+- [How to configure a Keycloak cluster properly (Quarkus edition)](https://gist.github.com/dasniko/3a57913047af3ca1b6b0a83b294dc1a1)
+- [Keycloak 17 example using JGroups JDBC\_PING discovery protocol for Infinispan](https://gist.github.com/xgp/768eea11f92806b9c83f95902f7f8f80)
+- [Keycloak 21.0.1 Clustering - Configuring the server - Keycloak](https://keycloak.discourse.group/t/keycloak-21-0-1-clustering/21921)
+- [Can we use two separate Keycloak HA clusters with same DB as there backend? - Getting advice - Keycloak](https://keycloak.discourse.group/t/can-we-use-two-separate-keycloak-ha-clusters-with-same-db-as-there-backend/21888)
+- [Is external infinispan required for Keycloak HA? - Getting advice - Keycloak](https://keycloak.discourse.group/t/is-external-infinispan-required-for-keycloak-ha/21865/2)
+- [Enabling Multicast for Keycloak Clustering - Configuring the server - Keycloak](https://keycloak.discourse.group/t/enabling-multicast-for-keycloak-clustering/12208)
+- [fit2anything/keycloak-cluster-setup-and-configuration](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration?tab=readme-ov-file)
+- [Reliable group communication with JGroups](http://jgroups.org/manual/#_jdbc_ping)
+
 ## Add Toggle ReSharper Button to VS
 * [Add ReSharper_ToggleSuspended as toolbar button](https://stackoverflow.com/a/41792417)
 
